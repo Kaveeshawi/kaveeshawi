@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Kaveen Dinethma
 
-<!--
-**Kaveeshawi/kaveeshawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Passionate IT Student | Exploring the Boundless World of Technology**
 
-Here are some ideas to get you started:
+![Profile views](https://img.shields.io/badge/Profile%20views-33%2C194-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **MERN**
+- 👨‍🎓 I’m an Undergraduate at **SLIIT**
+- 💬 Ask me about **Java**
+- 📫 How to reach me **[kaveen.dinethma@gmail.com](mailto:kaveen.dinethma@gmail.com)**
+- ⚡ Fun fact **Call me as KD**
+
+<img src="your_image_url_here" alt="Your Image" />
