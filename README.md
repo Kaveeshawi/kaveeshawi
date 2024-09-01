@@ -10,17 +10,16 @@
 
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 #### 👨🏻‍💻 &nbsp;About Me
+<ul>
+<li>👨‍💻 &nbsp;I’m an Undergraduate at Cardiff Met </li>
+<li>🌱 &nbsp;Explore emerging technologies </li>
+<li>💬 &nbsp;Ask me about ux/ui designs </li>
+<li>✍️ &nbsp;Content Writer </li>
+<li>✉️ &nbsp;You can reach me at kaveeshawi@gmail.com </li>
+</ul>
 
-👨‍💻 &nbsp;I’m an Undergraduate at Cardiff Met.\
-💡 &nbsp;Ask me about ux/ui designs.\
-🎓 &nbsp;I'm currently studying Computer\of Engineering .\
-🌱 &nbsp;I'm on track for \ased Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I\iting as hobbies/side hustles.\
-💬 &nbsp;Feel f\ring, or just for some interesting discussion.\
-✉️ &nbsp;You can reach me at kaveeshawi@gmail.com.\
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 #### ⚡ &nbsp;Languages I use
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
