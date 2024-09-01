@@ -7,8 +7,7 @@
   </ul>
 </div>
 
-
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="350" height="200"/>
 
 #### 👨🏻‍💻 &nbsp;About Me
 <ul>
@@ -19,7 +18,7 @@
 <li>✉️ &nbsp;You can reach me at kaveeshawi@gmail.com </li>
 </ul>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="250" height="150"/>
+
 
 
 #### ⚡ &nbsp;Languages I use
