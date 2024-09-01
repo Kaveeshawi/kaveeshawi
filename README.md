@@ -19,7 +19,8 @@
 <li>✉️ &nbsp;You can reach me at kaveeshawi@gmail.com </li>
 </ul>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="250" height="150"/>
+
 
 #### ⚡ &nbsp;Languages I use
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
