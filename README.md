@@ -10,55 +10,17 @@
 
 
 
-
-<h3>My Statistics-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20views-5%2C254-blue" alt="Profile Views"/>
-</p>
-
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <ul>
-        <li>🌱 I’m currently learning <b>MERN</b></li>
-      </ul>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Divider Image" width="200" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  👨‍🎓 I’m an Undergraduate at <b>SLIIT</b> <br>
-  💬 Ask me about <b>Java</b> <br>
-  📫 How to reach me <b><a href="mailto:kaveen.dinethma@gmail.com">kaveen.dinethma@gmail.com</a></b> <br>
-  ⚡ Fun fact <b>Call me as KD</b>
-</p>
-
-<p align="center">
-  <img src="your_image_url_here" alt="Your Image" />
-</p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there!</h2>
+### 👨🏻‍💻 &nbsp;About Me
+
+👨‍💻 &nbsp;I’m an Undergraduate at Cardiff Met.\
+💡 &nbsp;Ask me about ux/ui designs.\
+🎓 &nbsp;I'm currently studying Computer\of Engineering .\
+🌱 &nbsp;I'm on track for \ased Architecture, Machine Learning.\
+✍️ &nbsp;In my free time, I\iting as hobbies/side hustles.\
+💬 &nbsp;Feel f\ring, or just for some interesting discussion.\
+✉️ &nbsp;You can reach me at kaveeshawi@gmail.com.\
 
 ##### Languages I use
 
@@ -88,25 +50,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 <br/>
 
-
-
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
-
-### 👨🏻‍💻 &nbsp;About Me
-
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
-
-
-
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;My Statistics
 
 <p align="center">
   <a href="https://github.com/Adityakanoi2001">
