@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="Animated Image" />
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="Animated Image" width="100" height="100" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Kaveen Dinethma</h1>
+<h1 align="center">Hi, I'm Kaveesha Wijesiriwardana</h1>
 
 <p align="center">
-  <b>Passionate IT Student | Exploring the Boundless World of Technology</b>
+  <b>​🇼​​🇦​​🇱​​🇰​​🇮​​🇳​​🇬​ ​🇹​​🇭​​🇷​​🇴​​🇺​​🇬​​🇭​ ​🇦​ ​🇵​​🇦​​🇹​​🇭​ ​🇴​​🇫​ ​🇨​​🇷​​🇪​​🇦​​🇹​​🇮​​🇻​​🇮​​🇹​​🇾​...</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20views-33%2C194-blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20views-5%2C254-blue" alt="Profile Views"/>
 </p>
 
 <p align="center">
