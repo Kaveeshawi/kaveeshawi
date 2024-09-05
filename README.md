@@ -52,7 +52,7 @@
 <p align="center">
    <img height="180em" src="https://github.com/Kaveeshawi/kaveeshawi/blob/main/Assets/github_statistics.svg"/>
    <img height="180em" src="https://github.com/Kaveeshawi/kaveeshawi/blob/main/Assets/pro_languages.svg"/>
-   <img height="180em" src="https://github.com/Kaveeshawi/kaveeshawi/blob/main/Assets/current_streak.svg"/>
+   <img height="180em" src="https://github.com/Kaveeshawi/kaveeshawi/blob/main/Assets/current_streak.svg?theme=dark&hide_border=true"/>
 </p>
 
 
