@@ -51,11 +51,10 @@
 #### ⚙️ &nbsp;My Statistics
 <p align="center">
    <img height="180em" src="https://github.com/Kaveeshawi/kaveeshawi/blob/main/Assets/github_statistics.svg"/>
- </a>
    <img height="180em" src="https://github.com/Kaveeshawi/kaveeshawi/blob/main/Assets/pro_languages.svg"/>
- </a>
    <img height="180em" src="https://github.com/Kaveeshawi/kaveeshawi/blob/main/Assets/current_streak.svg"/>
 </p>
+
 
 
 #### 💰 &nbsp;Support My Work
